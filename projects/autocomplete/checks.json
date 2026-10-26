@@ -1,0 +1,12 @@
+{
+  "checks": [
+    "conditional probabilities normalized by context",
+    "unseen contexts",
+    "short input",
+    "case/punctuation handling",
+    "no cross-document transitions",
+    "last transition retained",
+    "short corpus"
+  ],
+  "scope": "Synthetic correctness cases; not held-out prediction quality."
+}
