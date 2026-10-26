@@ -1,0 +1,13 @@
+.venv/
+.env
+.env.*
+__pycache__/
+.ipynb_checkpoints/
+.DS_Store
+review/
+data/
+models/
+*.h5
+*.keras
+*.pkl
+*.pickle
